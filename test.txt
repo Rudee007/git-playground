@@ -1,2 +1,5 @@
 testing amend command
 git commit --amend
+
+
+new branch created and committed changed on the foo branch
