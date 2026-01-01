@@ -4,3 +4,6 @@ git commit --amend
 
 new branch created and committed changed on the foo branch
 main file commit 4th commit
+
+new changes on foo branch
+second commit on foo branch
