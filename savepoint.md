@@ -20,3 +20,26 @@
 
     - if NO:  reset your branch to the savepoint
         `git reset --hard savepoint`
+
+#### note:
+
+== what really happen is: ==
+
+** main is moved to point at savepoint. **
+```
+A -- B -- C -- D (main)
+
+```
+
+- we run:
+
+```
+git reset --hard B   # B = savepoint
+
+```
+
+- result: 
+
+```
+A -- B (main)
+```
