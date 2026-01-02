@@ -23,9 +23,9 @@
 
 #### note:
 
-== what really happen is: ==
+<mark>what really happen is:<mark>
 
-** main is moved to point at savepoint. **
+**main is moved to point at savepoint.**
 ```
 A -- B -- C -- D (main)
 
