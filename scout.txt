@@ -1,0 +1,5 @@
+The scout Pattern: this is a part of scout pattern
+
+-> assume this part is a new feature that we are creating
+
+-> Create a new branch 
