@@ -10,3 +10,8 @@
     `git branch savepoint
 
 - after doing some commit or implimenting what we want do the merge with the savepoint.
+
+- if everything right, we are happy with the result
+
+    - if YES: delete the savepoint
+    - if NO:  reset your branch to the savepoint
