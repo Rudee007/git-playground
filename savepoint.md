@@ -8,3 +8,5 @@
 - create a new branch to use as a savepoint, but don't switch to it.
 
     `git branch savepoint
+
+- after doing some commit or implimenting what we want do the merge with the savepoint.
